@@ -9,7 +9,6 @@ import lombok.*;
 @AllArgsConstructor
 @ToString
 @Entity
-@Table(name = "patients")
 public class Patient {
 
     @Id
