@@ -9,7 +9,6 @@ import java.sql.SQLOutput;
 public class HospitalManagementSystemApplication {
 
     public static void main(String[] args) {
-        System.out.println("this is main class");
         SpringApplication.run(HospitalManagementSystemApplication.class, args);
     }
 
