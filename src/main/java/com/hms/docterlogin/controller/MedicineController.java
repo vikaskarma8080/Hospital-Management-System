@@ -2,7 +2,6 @@ package com.hms.docterlogin.controller;
 
 import com.hms.docterlogin.entities.Medicine;
 import com.hms.docterlogin.reposetories.MedicineRepository;
-import com.hms.entites.Patient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
